@@ -1,9 +1,12 @@
 {
-  "name": "Ubuntu Desktop on Heroku",
-  "description": "A Heroku install of Ubuntu 20.10 (Groovy Gorilla), with the XFCE desktop environment and VNC",
-  "keywords": ["Ubuntu", "XFCE", "VNC", "Docker", "Heroku"],
-  "env": {},
+  "name": "er",
+  "description": "er",
+  "repository": "https://github.com/AlexOrtiz6668/er",
+   "env": {},
+  "logo": "",
+  "keywords": ["er"],
+
   "website": "",
   "repository": "",
   "stack": "container"
-}
+ }
